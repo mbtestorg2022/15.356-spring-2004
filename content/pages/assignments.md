@@ -39,16 +39,158 @@ Example:
 
 Students can turn in a final, fifteen-page (space and one-half, please) paper at the last class. Or, they can turn in two seven-page papers at the final class. If students would like early feedback, they can also turn in one short paper at the midpoint of the class. These deadlines are summarized in the table below.
 
-| LEC # | TOPICS | ASSIGNMENTS |
-| --- | --- | --- |
-| 1 | Who Develops Breakthrough New Products and Services - Users or Manufacturers? | &nbsp; |
-| 2 | Systematic Generation of Ideas for "Breakthrough" New Products and Services - the "Lead User Method" | &nbsp; |
-| 3 | Finding out What Users Really Need: The "Sticky Information" and "Learning by Doing" Problems | &nbsp; |
-| 4 | Systematic Generation of Incremental Improvements to Existing Products and Services  {{< br >}}Traditional Marketing Research Concept Generation Techniques | &nbsp; |
-| 5 | "Brainstorming" and Creativity Training Techniques  {{< br >}}Lecturer: Jeff Mauzy, Principal, Synectics, Inc. Cambridge, MA | &nbsp; |
-| 6 | The MIT Media Lab Approach: "Build It and They Will Come."  {{< br >}}Lecturer: Joe Paradiso, MIT Media Lab | If a student wants early feedback, first seven-page paper due at this class |
-| 7 | Determining Average Users' Needs Ethnographically and then Developing Solutions  {{< br >}}Lecturer: Dr. Harry West, VP, Design Continuum | &nbsp; |
-| 8 | Why Users Share Innovations with each other and with Manufacturers: Informal Know-How Trading, Collective Invention and Voluntary Revealing | &nbsp; |
-| 9 | Toolkits for User Innovation  {{< br >}}Lecturer: John Wright, International Flavors and Fragrances | &nbsp; |
-| 10 | User Innovation Communities - No Manufacturer Required | &nbsp; |
-| 11 | Resistance to Adopting Radically New Innovations - Even in Firms that "Want To" | Second seven-page paper (or 15-page paper) due at this class
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Who Develops Breakthrough New Products and Services - Users or Manufacturers?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Systematic Generation of Ideas for "Breakthrough" New Products and Services - the "Lead User Method"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Finding out What Users Really Need: The "Sticky Information" and "Learning by Doing" Problems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Systematic Generation of Incremental Improvements to Existing Products and Services  
+Traditional Marketing Research Concept Generation Techniques
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+"Brainstorming" and Creativity Training Techniques  
+Lecturer: Jeff Mauzy, Principal, Synectics, Inc. Cambridge, MA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The MIT Media Lab Approach: "Build It and They Will Come."  
+Lecturer: Joe Paradiso, MIT Media Lab
+{{< tdclose >}}
+{{< tdopen >}}
+If a student wants early feedback, first seven-page paper due at this class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Determining Average Users' Needs Ethnographically and then Developing Solutions  
+Lecturer: Dr. Harry West, VP, Design Continuum
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Why Users Share Innovations with each other and with Manufacturers: Informal Know-How Trading, Collective Invention and Voluntary Revealing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Toolkits for User Innovation  
+Lecturer: John Wright, International Flavors and Fragrances
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+User Innovation Communities - No Manufacturer Required
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Resistance to Adopting Radically New Innovations - Even in Firms that "Want To"
+{{< tdclose >}}
+{{< tdopen >}}
+Second seven-page paper (or 15-page paper) due at this class
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

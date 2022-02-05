@@ -24,7 +24,36 @@ Assignments and Grading
 
 Students' course grades will be determined primarily on the basis of the quality of two seven page papers or one 15 page paper that builds on one or more course-related topics that especially interest them. Professor von Hippel can discuss good paper topics for each student as the term progresses. In addition students are, of course, expected to prepare for classes by doing the assigned readings and participating in class discussions!
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Attendance and Participation | 50% |
-| Two Mini-Papers (7 pages) | 50%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Attendance and Participation
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Mini-Papers (7 pages)
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
